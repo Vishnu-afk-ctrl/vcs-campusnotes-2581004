@@ -24,3 +24,5 @@ CampusNotes is a simple, responsive VCS study-notes manager built with HTML, CSS
 
 ## Note
 Notes are saved in the browser's Local Storage on the device and browser where they were created. They are not automatically synced between devices.
+
+This project is maintained using Git and GitHub version control.
